@@ -1,4 +1,4 @@
-runtime: php83
+runtime: php55
 handlers:
 - url: /
   script: index.php
